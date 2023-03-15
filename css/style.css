@@ -1,0 +1,91 @@
+body{
+	font-family: 'Istok Web', sans-serif;
+	color: #4b3f55;
+}
+
+.bg-violet{
+	background-color: #775ba3;
+}
+
+.nav-link{
+	font-size: 14px;
+}
+
+.carousel-indicators [data-bs-target]{
+	width: 12px;
+	height: 12px;
+	border-radius: 50%;
+	background-color: transparent;
+	border: 2px solid #fff;
+	opacity: 1;
+}
+
+.carousel-indicators .active{
+	background-color: #fff;
+	width: 8px;
+	height: 8px;
+	margin-top: 2px;
+}
+
+.bg-pink{
+	color: #634081;
+	font-size: 40px;
+}
+.bg-red{
+	font-size: 23px;
+}
+
+
+.text-block {
+	display: flex;
+}
+
+.text-block__item {
+	padding: 0 20px;
+}
+
+.icon{
+	display: block;
+	width: 80px;
+	height: 80px;
+	border: 2px solid black;
+	border-radius: 50%;
+	text-align: center;
+	line-height: 80px;
+	margin: 0 auto 20px;
+}
+
+.lane{
+	text-align: center;
+
+}
+
+.pink{
+	background-color: #ea4c89;
+}
+
+.blu{
+	background-color: #00CED1;
+}
+
+.crim{
+	background-color: #DC143C;
+}
+
+.mane{
+	color: #3CB371;
+	font-size: 18px;
+	font-weight: 12px bold;
+}
+
+.allin{
+	border-color:#32CD32;
+}
+.line{
+	  border-top: 1px solid #3CB371;
+		border-bottom: 1px solid #3CB371;
+		border-width: 3px;
+		padding: 10px;
+		opacity: 0.5;
+}
+
